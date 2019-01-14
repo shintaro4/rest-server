@@ -10,4 +10,5 @@
 
  :duct.module/logging {}
  :duct.module.web/api {}
- :duct.module/sql {}}
+ :duct.module/sql
+ {:database-url "jdbc:postgresql://localhost:5432/meetup?user=meetup&password=password123"}}
