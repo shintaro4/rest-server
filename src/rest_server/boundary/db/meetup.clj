@@ -1,4 +1,4 @@
-(ns rest-server.boundary.meetup
+(ns rest-server.boundary.db.meetup
   (:require [duct.database.sql]
             [honeysql.core :as sql]
             [rest-server.boundary.db.core :as db]))
